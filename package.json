@@ -1,0 +1,28 @@
+{
+  "name": "62r14",
+  "version": "1.0.0",
+  "description": "An experiment to see if Suspense can work for streaming large datasets into a React app",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "d3": "5.12.0",
+    "react": "0.0.0-experimental-f6b8d31a7",
+    "react-dom": "0.0.0-experimental-f6b8d31a7",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
